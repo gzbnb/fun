@@ -14,8 +14,10 @@ public @interface HttpParamKeyName {
     public R param();
 
     /**
-     * 가가가 22
+     * 가가가 11
      */
     public void AA();
+
+    public void BB();
 
 }
