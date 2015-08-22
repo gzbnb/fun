@@ -13,4 +13,9 @@ public @interface HttpParamKeyName {
 
     public R param();
 
+    /**
+     * °¡°¡°¡
+     */
+    public void AA();
+
 }
